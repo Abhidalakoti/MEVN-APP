@@ -1,0 +1,3 @@
+[submodule "vue-crud1"]
+	path = vue-crud1
+	url = https://github.com/Abhidalakoti/vue-crud.git
